@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+}
+.area-size{
+    width: 50%;
+    padding-left: 5%;
+}
+.area-size p{
+    padding-bottom: 20px;
+}
+.first-section-img{
+    width: 80%;
+}
+.skip-color{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, orange, tomato);
+    padding: 15px 30px;
+    border-radius: 25px;
+}
+
