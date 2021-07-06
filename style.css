@@ -55,4 +55,33 @@ section h2{
 .recipie-title, p{
     padding: 10px;
 }
+.best-recipie-food{
+    width: 60%;
+}
+.best-recipie-text{
+    width: 40%;
+    padding-top: 70px;
+    margin-top: 50px;
+}
+#best-item{
+    width: 650px;
+    margin-top: 30px;
+    margin-left: 40px;
+    border: 2px gray solid;
+    border-radius: 10px;
+}
+#delicius{
+    font-size: 50px;
+    margin:0;
+}
+footer{
+    width: 100%;
+    background-color: rgb(235, 234, 234);
+    margin:0;
+}
+footer p{
+    text-align: center;
+    margin:0;
+    padding-top: 50px;
 
+}
