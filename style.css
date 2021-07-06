@@ -39,5 +39,20 @@ section h2{
 .my-recipie-text{
     text-align: center;
     margin: 0px 275px 10px 275px;
+    padding-bottom: 30px;
+}
+.recipie-title{
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 1px;
+}
+
+.recipie-title, img{
+    width: 350px;
+}
+
+.recipie-title, p{
+    padding: 10px;
 }
 
